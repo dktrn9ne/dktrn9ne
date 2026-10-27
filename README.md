@@ -58,5 +58,6 @@ I am especially interested in dependable agentic systems, evaluation infrastruct
 
 ## Connect
 
+- Portfolio: [mauricethomas.online](https://www.mauricethomas.online/)
+- Library Labs: [l1brary-labs.dktrn9ne.chatgpt.site](https://l1brary-labs.dktrn9ne.chatgpt.site)
 - GitHub: [@dktrn9ne](https://github.com/dktrn9ne)
-- Portfolio: [dktrn9ne/portfolio](https://github.com/dktrn9ne/portfolio)
