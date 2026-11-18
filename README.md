@@ -1,63 +1,45 @@
 # Maurice Thomas
 
-**Lead Forward Deployed Engineer at Library Labs**
+**Applied AI Engineer** — agent systems, evaluations, and customer workflow delivery
+Austin, Texas
 
-I turn ambiguous, high-stakes workflows into reliable AI products. My work spans customer discovery, rapid prototyping, production-minded architecture, integrations, evaluations, and the operational guardrails that make agentic systems safe to deploy.
-
-Based in Austin, Texas. I build at the intersection of applied AI, product engineering, and customer outcomes.
-
-## What I work on
-
-- Forward-deployed engineering: translating real workflows into shipped software
-- AI agents and tool-using systems with clear permission and approval boundaries
-- Model and agent evaluations, regression gates, and observable execution
-- Full-stack prototypes that move quickly without ignoring production risk
-- Technical leadership across customers, product, design, and engineering
+I turn real operational workflows into reliable AI systems: tool-using agents with approval boundaries, evaluation and release gates, and the audit trail a client can inspect. I do independent product and systems work at Library Labs.
 
 ## Selected work
 
-### [Enterprise Agent Workbench](https://github.com/dktrn9ne/enterprise-agent-workbench)
-
-A reference architecture for reliable enterprise agents, including MCP tools, role-aware access, stateful execution, schema validation, human approval gates, audit instrumentation, threat modeling, and deterministic local demos.
-
-`TypeScript` · `Node.js` · `MCP` · `Zod` · `Agent architecture` · `Safety`
-
 ### [Proofrail AI Evals](https://github.com/dktrn9ne/proofrail-ai-evals)
+Provider-neutral evaluation gates for models and agentic workflows. Version-controlled specs, repeated trials, anchor controls, and criterion-level evidence become a traceable pass/fail decision that can run in CI.
 
-A provider-neutral quality gate for AI models and agentic workflows. It turns version-controlled evaluation specifications, repeated trials, anchor controls, and criterion-level evidence into traceable release decisions that can run in CI.
+`Python` · `Evaluations` · `CI` · `Release gates`
 
-`Python` · `AI evaluations` · `Agent traces` · `CI/CD` · `Release gates`
+### [Enterprise Agent Workbench](https://github.com/dktrn9ne/enterprise-agent-workbench)
+A TypeScript reference architecture for tool-using enterprise agents: MCP tools, role-aware access, schema validation, human approval gates, and audit events. The local demo runs without API keys.
+
+`TypeScript` · `MCP` · `Zod` · `Approval gates`
 
 ### [Cadence](https://github.com/dktrn9ne/cadence)
+A wallet dashboard for RLUSD income verification and scheduled XRP Ledger payments, with duplicate-receipt prevention, integer micro-unit accounting, and interrupted-payment recovery.
 
-A consumer wallet dashboard for RLUSD income verification and scheduled XRP Ledger payments, with wallet signing, ledger reconciliation, idempotent recovery, concurrency controls, browser and desktop test coverage, and explicit safety boundaries.
+`JavaScript` · `XRPL` · `Payments` · `Reliability`
 
-`JavaScript` · `XRPL` · `Payments` · `Electron` · `Playwright` · `Reliability`
+### [Precision Coatings of Texas](https://github.com/dktrn9ne/coattexas)
+Client delivery for a coatings contractor: a public site plus an AI project visualizer that turns a job-site photo into a finished-surface preview.
+
+`HTML` · `Python` · `Client delivery`
 
 ### [Base Power Utility Survey](https://github.com/dktrn9ne/base-power-survey-app)
+A field-workflow prototype for residential battery-install reconnaissance: 3D property context, categorized photo evidence, and conservative qualification with a local fallback when the model is unavailable.
 
-A field-workflow prototype combining a 3D property model, map context, categorized photo evidence, portable survey data, and conservative AI-assisted qualification.
+`JavaScript` · `Three.js` · `Field operations`
 
-`JavaScript` · `Three.js` · `OpenAI` · `Field operations` · `Product prototyping`
+## How I work
 
-## How I lead
-
-**Start with the workflow.** The fastest path to value is understanding how the work actually gets done.
-
-**Ship the thin slice.** Put a real system in front of users early, then use evidence to decide what deserves scale.
-
-**Design for trust.** Permissions, approvals, observability, and recovery are product features—not cleanup work.
-
-**Own the outcome.** Move fluidly between customer conversations, architecture, implementation, and rollout.
-
-## Current focus
-
-At Library Labs, I lead forward-deployed engineering: partnering closely with users, turning unclear requirements into working systems, and carrying the lessons from each deployment back into reusable product capabilities.
-
-I am especially interested in dependable agentic systems, evaluation infrastructure, and the craft of taking AI products from compelling demo to trusted daily workflow.
+- Start from the workflow, not the model.
+- Let code enforce policy, math, and approvals; use the model for reading and drafting.
+- Evaluate before a release, and keep consequential actions behind a human.
 
 ## Connect
 
 - Portfolio: [mauricethomas.online](https://www.mauricethomas.online/)
-- Library Labs: [library-labs.vercel.app](https://library-labs.vercel.app)
+- LinkedIn: [linkedin.com/in/mrt45](https://www.linkedin.com/in/mrt45)
 - GitHub: [@dktrn9ne](https://github.com/dktrn9ne)
